@@ -1,0 +1,18 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2021 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="arrow" unicode="&#xe800;" d="M1461 319l-454-462a68 68 0 0 0-81 27 70 70 0 0 0-27 83l310 316h-1132a78 78 0 0 0 0 156h1111l-289 295a70 70 0 0 0 27 83 68 68 0 0 0 81 27l453-462a32 32 0 0 0 5-31 33 33 0 0 0-4-32z" horiz-adv-x="1467" />
+
+<glyph glyph-name="phone" unicode="&#xe801;" d="M964 177l-218 46c-19 9-28 0-37-9l-82-73c-145 73-263 191-336 336l73 82c9 9 18 18 9 37l-46 218c0 18-18 36-36 36-45 0-91-9-136-36-37-18-73-55-100-91-28-27-46-73-55-118 0-46 0-91 18-137 46-136 128-263 237-363 100-100 227-182 363-237 28-9 64-18 100-18 9 0 28 0 46 0 45 9 82 27 127 45 36 28 64 64 91 100 18 46 36 91 36 137-18 27-36 45-54 45z m-755 337c-9-9-18-28-9-46 91-182 236-336 418-418 18-9 37 0 46 9l82 82 163-36c0-55-36-100-82-137-54-36-118-45-181-27-255 91-455 291-546 545-27 64-18 128 27 182 28 55 73 91 128 100l36-163-82-91z" horiz-adv-x="1000" />
+
+<glyph glyph-name="triangle" unicode="&#xe803;" d="M580-95c-36-69-125-69-161 0l-203 395-203 394c-36 70 9 156 80 156h813c71 0 116-86 80-156l-203-394z" horiz-adv-x="1000" />
+
+<glyph glyph-name="dot" unicode="&#xe804;" d="M500 850c276 0 500-224 500-500s-224-500-500-500-500 224-500 500 224 500 500 500z" horiz-adv-x="1000" />
+</font>
+</defs>
+</svg>

@@ -1,0 +1,67 @@
+@import "libs/header";
+@import "libs/fontello";
+
+@font-face{
+    font-family: "Gotham Pro";
+    src: url(../font/GothaProLig.otf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face{
+    font-family: "Gotham Pro Black";
+    src: url(../font/GothaProBla.otf);
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+    list-style: none;
+    font-weight: 400;
+    text-decoration: none;
+    font-family: "Gotham Pro", sans-serif;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    -o-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+
+
+body {
+    position: relative;
+    height: 100%;
+}
+
+html {
+    box-sizing: border-box;
+    position: relative;
+    height: 100%;
+}
+
+ul li,
+ol li {
+    margin: 0;
+}
+
+.container {
+    z-index: 4;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 15px;
+    position: relative;
+}
+
